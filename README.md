@@ -4,10 +4,8 @@ I’m an aspiring software developer focused on building strong fundamentals.<br
 Currently learning Java, frontend development, and problem solving.<br>
 I enjoy creating real-world projects that improve my practical skills.<br>
 Consistent learning and discipline are my core strengths.<br>
-My goal is to grow into a skilled engineer and get placed in a top MNC.
 
 
-![github-user-contribution (1)](https://github.com/user-attachments/assets/c78aa8e4-2983-445d-b41f-dfdb00b780f2)
 
 
 ## 🌐 Socials:
