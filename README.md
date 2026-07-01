@@ -1,9 +1,6 @@
 # 💫 About Me:
 
-I’m an aspiring software developer focused on building strong fundamentals.<br>
-Currently learning Java, frontend development, and problem solving.<br>
-I enjoy creating real-world projects that improve my practical skills.<br>
-Consistent learning and discipline are my core strengths.<br>
+
 
 
 
